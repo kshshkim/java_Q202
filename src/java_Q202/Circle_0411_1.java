@@ -2,7 +2,7 @@ package java_Q202;
 
 import java.util.Scanner;
 
-public class Circle_0411_1 {
+public class Circle_0411_1 { //
 	int radius;
 	String name;
 	
