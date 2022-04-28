@@ -2,7 +2,7 @@ package java_Q202;
 
 public class Circle_0411_2 {
 	int	radius;
-	String name;
+	String name; //dd
 	
 	public Circle_0411_2() {
 		radius = 1; name = "";
