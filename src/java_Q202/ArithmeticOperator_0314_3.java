@@ -1,6 +1,6 @@
 package java_Q202;
 
-import java.util.Scanner;
+import java.util.Scanner; //
 
 public class ArithmeticOperator_0314_3 {
 	public static void main(String[] args) {
