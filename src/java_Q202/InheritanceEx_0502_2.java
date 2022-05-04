@@ -10,6 +10,8 @@ public class InheritanceEx_0502_2 {
 //        System.out.println(s.age);
 //        System.out.println(s.height);
         System.out.println(s.name);
+        System.out.println(s.getWeight());
+
 
     }
 }

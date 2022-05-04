@@ -9,7 +9,8 @@ public class Person {
     public void setWeight(int weight) {
         this.weight = weight;
     }
-    public int getWeight(){
+
+    public int getWeight() {
         return weight;
     }
 }
