@@ -1,3 +1,5 @@
+// 2016110652 김성현
+
 package differentPackage_0502;
 
 public class Person {
