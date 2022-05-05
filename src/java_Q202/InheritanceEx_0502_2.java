@@ -2,11 +2,13 @@ package java_Q202;
 
 import differentPackage_0502.Student;
 import differentPackage_0502.Person;
+import differentPackage_0502.Cat;
 
 public class InheritanceEx_0502_2 {
     public static void main(String[] args) {
         Person p = new Person();
         Student s = new Student();
+        Cat c = new Cat();
         CollegeStudent cs = new CollegeStudent();
         s.set();
         System.out.println(s.name);
