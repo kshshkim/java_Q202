@@ -2,8 +2,8 @@ package java_Q202;
 import javax.swing.*;
 import java.awt.*;
 
-public class SU202_0414_2 extends JFrame {
-    public SU202_0414_2() {
+public class SU_0414_2 extends JFrame {
+    public SU_0414_2() {
         setTitle("ContentPane과 JFrame");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -20,6 +20,6 @@ public class SU202_0414_2 extends JFrame {
     }
 
     public static void main(String[] args) {
-        new SU202_0414_2();
+        new SU_0414_2();
     }
 }
